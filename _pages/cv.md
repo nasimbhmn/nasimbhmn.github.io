@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Updated on Feb 27, 2023
+Updated on Feb 26, 2023
 
 {% include base_path %}
 
