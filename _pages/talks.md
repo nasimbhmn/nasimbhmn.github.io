@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Talks"
+title: "Invited talks"
 permalink: /talks/
 author_profile: true
 ---
 
-Invited talks
+<!-- Invited talks -->
 ======
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
