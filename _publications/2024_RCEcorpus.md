@@ -6,7 +6,7 @@ date: 2023-06-28
 venue: 'submitted'
 paperurl: ''
 link: ''
-citation: '<b>Bahmanian, N.</b>, Bader, M. \& Lago, S. (under review). &quot;Argument structure affects relative clause extraposition: corpus evidence from Persian.&quot;'
+citation: '<b>Bahmanian, N.</b>, Bader, M. & Lago, S. (under review). &quot;Argument structure affects relative clause extraposition: corpus evidence from Persian.&quot;'
 
 
 ---

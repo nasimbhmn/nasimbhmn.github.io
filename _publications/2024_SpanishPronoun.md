@@ -6,7 +6,7 @@ date: 2023-06-28
 venue: 'submitted'
 paperurl: ''
 link: ''
-citation: 'Pañeda, C., Kandel, M. <b>Bahmanian, N.</b>, Martinez Bruera, M., Phillips, C. \& Lago, S. (in-prep). &quot;Linguistic representations matter for pronoun production: evidence from grammatical number and gender attraction in Spanish.&quot;'
+citation: 'Pañeda, C., Kandel, M. <b>Bahmanian, N.</b>, Martinez Bruera, M., Phillips, C. & Lago, S. (in-prep). &quot;Linguistic representations matter for pronoun production: evidence from grammatical number and gender attraction in Spanish.&quot;'
 
 
 ---
